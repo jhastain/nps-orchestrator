@@ -1,0 +1,13 @@
+This project is MIT licensed (see LICENSE), with one exception.
+
+Files generated from Google's Agent Development Kit project starter retain their
+original Apache License 2.0 header:
+
+  app/agent.py
+  app/agent_direct.py
+  app/agent_engine_app.py
+
+Copyright 2025 Google LLC, licensed under the Apache License, Version 2.0:
+http://www.apache.org/licenses/LICENSE-2.0
+
+Everything else is Copyright 2026 Jason Hastain under the MIT License.
